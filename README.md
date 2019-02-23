@@ -1,2 +1,2 @@
-# js
+# JS
 Kumpulan Javascript dari Oa Oh Vu
